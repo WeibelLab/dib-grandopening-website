@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
+title: Design Lab Grand Opening # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: 'Design Lab © {year}' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -32,7 +32,7 @@ module:
 ## ADVANCED
 ############################
 
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 paginate: 10
 enableEmoji: true
