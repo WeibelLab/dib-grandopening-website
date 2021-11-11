@@ -21,7 +21,7 @@ design:
   #   5 = Showcase
   view: 3
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: true
+  flip_alt_rows: false
 ---
 The Community Engagement Studio is a space to conduct community-engaged work across UCSD, San Diego, and beyond. 
 

@@ -21,7 +21,7 @@ design:
   #   5 = Showcase
   view: 3
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: true
+  flip_alt_rows: false
 ---
 <center>A number of other activities are spread around the DIB 3rd floor and on the 2n Floor as a connection to the Maker Space.</center>
 

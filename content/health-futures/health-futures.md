@@ -21,7 +21,7 @@ design:
   #   5 = Showcase
   view: 3
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: true
+  flip_alt_rows: false
 ---
 The Health Futures Lab, initiated by Center4Health, works with aligned leaders in health and wellness to identify and solve complex problems through the lens of storytelling. 
 

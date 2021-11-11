@@ -19,7 +19,7 @@ design:
   #   5 = Showcase
   view: 3
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: true
+  flip_alt_rows: false
 ---
 The Speculative Ecology and Bioarchitecture space has a strong connection to the natural world and produces solutions for environmental justice. 
 

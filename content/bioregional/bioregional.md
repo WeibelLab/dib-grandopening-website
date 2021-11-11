@@ -21,7 +21,7 @@ design:
   #   5 = Showcase
   view: 3
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: true
+  flip_alt_rows: false
 ---
 The Bioregional Center for Sustainability Science, Planning and Design (BioREG) creates community-university partnerships dedicated to team-based, problem-solving, and solutions-oriented action research. 
 

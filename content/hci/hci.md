@@ -20,7 +20,7 @@ design:
   #   5 = Showcase
   view: 3
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: true
+  flip_alt_rows: false
 ---
 The Human-Computer Interaction (HCI) Collaboratory enables research that pushes the boundaries of technologies and creates novel interfaces between people and computers. 
 

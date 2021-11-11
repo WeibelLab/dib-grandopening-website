@@ -21,7 +21,7 @@ design:
   #   5 = Showcase
   view: 3
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: true
+  flip_alt_rows: false
 ---
 <center>Students Organizations affiliated with the Design Lab, or sharing their value with Human-Centered Design.</center>
 

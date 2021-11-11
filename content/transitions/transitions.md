@@ -21,7 +21,7 @@ design:
   #   5 = Showcase
   view: 3
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: true
+  flip_alt_rows: false
 ---
 The Just Transitions Initiative supports innovation in design and organization towards more just and democratic futures, tackling geopolitics from below. We work towards just transitions by integrating analyses of labor, ecology, and social systems, including racial capitalism and settler colonialisms. 
 
