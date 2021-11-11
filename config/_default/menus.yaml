@@ -4,12 +4,45 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Gran Opening Activities
-    url: event
-    weight: 30
+  - name: Activities
+    url: activities
+    weight: 20
+  - name: HCI Collaboratory
+    url: hci
+    parent: Activities
+    weight: 21
+  - name: Health Futures Lab
+    url: health-futures
+    parent: Activities
+    weight: 22
+  - name: Speculative Ecology & Bioarchitecture
+    url: speculative
+    parent: Activities
+    weight: 23
+  - name: Just Transitions
+    url: transitions
+    parent: Activities
+    weight: 24
+  - name: BioRegional Center
+    url: bioregional
+    parent: Activities
+    weight: 25
+  - name: Community Engagement Studio
+    url: community
+    parent: Activities
+    weight: 26
+  - name: Student Organizations
+    url: student-orgs
+    parent: Activities
+    weight: 27
+  - name: Featured and Others
+    url: featured
+    parent: Activities
+    weight: 28
   - name: People
-    url: people
+    url: authors
     weight: 40
   - name: Contact
     url: contact
     weight: 50
+

@@ -8,20 +8,20 @@
 theme: Earth
 day_night: false
 font: minimal
-font_size: S
+font_size: s
 
 # SEO
 
 site_type: Organization
 local_business_type: ''
 org_name: 'Design Lab'
-description: To commemorate the Grand Opening of the new Design & Innovation Building (DIB), The Design Lab will be hosting a showcase of projects and activities on Thursday, November 18 from 12:00pm to 3:00pm on the DIB 3rd floor.
+description: To commemorate the Grand Opening of the new Design and Innovation Building (DIB), The Design Lab will be hosting a showcase of projects and activities on Thursday, November 18 from 12:00pm to 3:00pm on the DIB 3rd floor.
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+#email: test@example.org
+#phone: 888 888 88 88
 address:
   street: ' UCSD Design Lab.<br/>University of California, San Diego<br/>Desing and Innovation Building (DIB)<br/>9500 Gilman Drive<br/>La Jolla, CA 92093, USA'
   city: 
@@ -32,12 +32,12 @@ address:
 coordinates:
   latitude: '32.87937544218218'
   longitude: '-117.23226135617682'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
-contact_links:
+#directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+#office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+#appointment_url: 'https://calendly.com'
+#contact_links:
 contact_links:
   - icon: comments
     icon_pack: fas
@@ -47,7 +47,7 @@ contact_links:
 
 main_menu:
   enable: true
-  align: r
+  align: l
   show_logo: true
   show_language: false
   show_day_night: false
@@ -115,7 +115,7 @@ search:
 map:
   provider: mapnik
   api_key: ''
-  zoom: 15
+  zoom: 16
 marketing:
   google_analytics: ''
   google_tag_manager: ''
