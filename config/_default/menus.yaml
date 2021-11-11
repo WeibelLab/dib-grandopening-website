@@ -7,27 +7,27 @@ main:
   - name: Activities
     url: activities
     weight: 20
-  - name: HCI Collaboratory
+  - name:  340+337 - HCI Collaboratory
     url: hci
     parent: Activities
     weight: 21
-  - name: Health Futures Lab
+  - name: 336 - Health Futures Lab
     url: health-futures
     parent: Activities
     weight: 22
-  - name: Speculative Ecology & Bioarchitecture
+  - name: 336 - Speculative Ecology & Bioarchitecture
     url: speculative
     parent: Activities
     weight: 23
-  - name: Just Transitions
+  - name: 331 - Just Transitions
     url: transitions
     parent: Activities
     weight: 24
-  - name: BioRegional Center
+  - name: 331 - BioRegional Center
     url: bioregional
     parent: Activities
     weight: 25
-  - name: Community Engagement Studio
+  - name: 330 - Community Engagement Studio
     url: community
     parent: Activities
     weight: 26

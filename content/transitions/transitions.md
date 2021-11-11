@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-title: Just Transitions<br/>(Room 331)<br><br/><img src="/images/JustTransitions.png">
+title: Just Transitions<br/>(Room 331)<br><br/><img src="/images/JustTransitions.jpeg">
 
 weight: 10
 # ... Put Your Section Options Here (title etc.) ...
