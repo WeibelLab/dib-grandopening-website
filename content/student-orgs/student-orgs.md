@@ -19,11 +19,11 @@ design:
   #   2 = Compact  
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 2
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-<center>Students Organizations affiliated with the Design Lab, or sharing their value with Human-Centered Design.</center>
+<center>Students Organizations affiliated with the Design Lab, or sharing their value with Human-Centered Design, are presenting their activities, and can tell you all about how to get engaged with them.</center><br/><br/>
 
 
 

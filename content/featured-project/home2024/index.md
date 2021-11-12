@@ -1,5 +1,5 @@
 ---
-title: 'HOME 2024'
+title: 'HOME 2024 Featured Talk'
 summary: ''
 authors: 
   - Michèle Morris
