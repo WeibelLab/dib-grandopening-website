@@ -1,5 +1,5 @@
 ---
-title: 'Community Project'
+title: 'Bioregional Imagination in Action'
 summary: ''
 authors: 
   - Keith Pezzoli
