@@ -29,5 +29,9 @@ links:
   icon: map
   name: Room 336 - C-04
   url: '/map'
+- icon_pack: fas
+  icon: globe-americas
+  name: Lab Page
+  url: 'http://c4h.ucsd.edu/'
 ---
 Explore our human-centered design projects from concept to interview.

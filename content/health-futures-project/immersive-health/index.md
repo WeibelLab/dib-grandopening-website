@@ -29,6 +29,10 @@ links:
   icon: map
   name: Room 336 - C-01
   url: '/map'
+- icon_pack: fas
+  icon: globe-americas
+  name: Lab Page
+  url: 'http://c4h.ucsd.edu/'
 ---
 Immerse, connect and collaborate with the Health Futures Lab. Take a deep dive into Defining Health a collaboration between Earth 2 and C4H.
 

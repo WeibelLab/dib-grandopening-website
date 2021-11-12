@@ -1,6 +1,6 @@
 ---
 title: 'iContour / VRContour'
-summary:
+summary: 'A Mobile System to Support Interactive Contouring and Feedback in Radiation Oncology Training'
 authors: 
   - Matin Yarmand
   - Chen Chen

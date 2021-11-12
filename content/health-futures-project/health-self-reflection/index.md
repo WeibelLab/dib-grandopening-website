@@ -29,5 +29,9 @@ links:
   icon: map
   name: Room 336 - C-05
   url: '/map'
+- icon_pack: fas
+  icon: globe-americas
+  name: Lab Page
+  url: 'http://c4h.ucsd.edu/'
 ---
 Share with us how do you define health, what contextual factors contribute to your health and wellbeing.

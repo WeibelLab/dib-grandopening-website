@@ -29,5 +29,9 @@ links:
   icon: map
   name: Room 336 - C-03
   url: '/map'
+- icon_pack: fas
+  icon: globe-americas
+  name: Lab Page
+  url: 'http://c4h.ucsd.edu/'
 ---
 We invite participants to define challenges, collaborations and opportunities for Health Futures

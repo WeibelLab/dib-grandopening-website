@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-title: Bioregional Center<br/>(Room 331)<br><br/><img src="/images/RICE Field.jpeg">
+title: Bioregional Center<br/>(Room 331)<br><br/><img src="/images/Bioregional.JPG">
 
 weight: 10
 # ... Put Your Section Options Here (title etc.) ...

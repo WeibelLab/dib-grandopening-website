@@ -29,5 +29,9 @@ links:
   icon: map
   name: Room 336 - C-02
   url: '/map'
+- icon_pack: fas
+  icon: globe-americas
+  name: Lab Page
+  url: 'http://c4h.ucsd.edu/'
 ---
 Follow our journey in defining health in Barrio Logan from mood boards to interviews in a gallery-style walkthrough.

@@ -29,5 +29,9 @@ links:
   icon: map
   name: Room 336 - C-06
   url: '/map'
+- icon_pack: fas
+  icon: globe-americas
+  name: Lab Page
+  url: 'http://c4h.ucsd.edu/'
 ---
 Contribute to a tapestry of understanding developing through key questions as connection points and common themes emerge.
