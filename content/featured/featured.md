@@ -23,7 +23,8 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-<center>A number of other activities are spread around the DIB 3rd floor and on the 2n Floor as a connection to the Maker Space.</center>
+<center>A number of other activities are spread around the DIB 3rd floor, the Innovation Stage on the 4th Floor, and on the 2nd Floor as a connection to the Maker Space.</center>
+<br/><br/>
 
 
 

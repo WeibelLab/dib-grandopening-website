@@ -55,12 +55,12 @@ This ranges from building relationships with industry, civic, and education part
 </div>
 
 ### External Resources
+- [HOME 2024 - World Design Capital](https://home2024.com/)
 - [ReCODE | Health](https://recode.health/nebeker/)
 - [Mental Health in Design](http://mentalhealthindesign.com/)
 - [IDEA Lab](https://designlab.ucsd.edu/the-idea-lab-a-collaboration-preparing-students-for-the-future/)
 - [Connected Learning Pathway](https://designlab.ucsd.edu/events/sony_clp_application/)
 - [ProtoLab](http://protolab.ucsd.edu/GetInvolved)
-- [HOME 2024 - World Design Capital](https://home2024.com/)
 
 
 ### Activities

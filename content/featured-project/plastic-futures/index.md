@@ -28,6 +28,10 @@ links:
   icon: map
   name: Hoteling Space - X-01
   url: '/map'
+- icon_pack: fas
+  icon: envelope
+  name: Email
+  url: 'mailto:pyoldas@ucsd.edu'
 ---
 Plastic Futures' is a multi-part installation that emerges at the intersection of architecture and urban design, and latest developments in material science happening on UCSD campus. 
 
