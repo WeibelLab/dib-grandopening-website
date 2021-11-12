@@ -41,7 +41,6 @@ The  emphasis is on understanding ecology and biology from a new angle by augmen
     <ul>
       <li>Michael Burkart</li>
       <li>Kyong Park</li>
-      <li>Benjamin Bratton</li>
     </ul>
   </div>
 </div>
