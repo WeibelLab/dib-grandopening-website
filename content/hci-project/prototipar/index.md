@@ -27,7 +27,7 @@ weight: 1
 links:
 - icon_pack: fas
   icon: map
-  name: Room 340 - B-04
+  name: Room 337 - B-04
   url: '/map'
 - icon_pack: fas
   icon: globe-americas

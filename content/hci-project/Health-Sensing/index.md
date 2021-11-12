@@ -26,7 +26,7 @@ weight: 1
 links:
 - icon_pack: fas
   icon: map
-  name: Room 340 - B-10
+  name: Room 337 - B-10
   url: '/map'
 - icon_pack: fas
   icon: envelope
