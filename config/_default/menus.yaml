@@ -42,6 +42,30 @@ main:
   - name: Map
     url: map
     weight: 30
+  - name: Overall Map
+    url: map
+    parent: Map
+    weight: 31
+  - name: Project Space A - 340
+    url: map/project-space-a
+    parent: Map
+    weight: 32
+  - name: Project Space B - 337
+    url: map/project-space-b
+    parent: Map
+    weight: 33
+  - name: Project Space C - 336
+    url: map/project-space-c
+    parent: Map
+    weight: 34
+  - name: Project Space D - 331
+    url: map/project-space-d
+    parent: Map
+    weight: 35
+  - name: Project Space E - 330
+    url: map/project-space-a
+    parent: Map
+    weight: 36
   - name: People
     url: authors
     weight: 40
