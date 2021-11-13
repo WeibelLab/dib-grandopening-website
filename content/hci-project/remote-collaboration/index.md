@@ -38,6 +38,6 @@ links:
   url: 'mailto:jgj007@eng.ucsd.edu'
   
 ---
-Mixed Reality has been shown to enhance remote guidance and is especially well-suited for physical tasks where properties of mixed reality can be exploited to offload the effort required for the communication task from the collaborator to the system. 
+eXtended Reality (XR) has been growing in popularity as a collaboration medium, especially for remote guidance over physical tasks - where at least one person manipulates objects in their environment. This project aims to explore how to design XR-mediated remote collaboration systems that exploit the strengths of spatial computing.
 
-This project enables the design of XR-mediated remote collaboration systems that exploit the strengths of spatial computing. An in-depth understanding of both human communication patterns and the unique affordances of the technology allow us to create new interaction techniques and alternate representations that make it easier for people to collaborate remotely, especially over physical tasks.
+Our research is relies on an in-depth understanding of both human communication patterns and the unique affordances of the technology. This allows us to create new new interaction techniques and alternate representations that could go beyond acheiving realism while making collaboration easier.
