@@ -13,4 +13,4 @@ design:
   background:
     image: 
 ---
-[![Map of Activities in Project Space D (Room 331)](/images/Project-Space-D.jpg)](/images/Project-Space-D.jpg)
+<img src="/images/Project-Space-D.jpg" alt="map"/>
