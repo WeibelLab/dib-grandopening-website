@@ -27,7 +27,7 @@ weight: 10
 links:
 - icon_pack: fas
   icon: map
-  name: Hoteling Space - X-02
+  name: Conference Room 306 - X-02
   url: '/map'
 - icon_pack: fas
   icon: envelope
