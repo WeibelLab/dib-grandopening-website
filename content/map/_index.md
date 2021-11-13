@@ -13,4 +13,4 @@ design:
   background:
     image: 
 ---
-![Map of Activities for the DIB Grnad Opening](/images/map.jpeg)
+[![Map of Activities for the DIB Grand Opening](/images/map.jpeg)](/images/map.jpeg)
