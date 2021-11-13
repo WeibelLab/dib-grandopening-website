@@ -1,5 +1,5 @@
 ---
-title: 'Podcast Poster'
+title: 'Whose City/Whose Bioregion Podcast'
 summary: ''
 authors: 
   - Lawrence Herzog
