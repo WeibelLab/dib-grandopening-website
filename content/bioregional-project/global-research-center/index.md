@@ -1,5 +1,5 @@
 ---
-title: 'The Global Research Center Community/University Partnership'
+title: 'The Global Action Research Center Community/University Partnership'
 summary: ''
 authors: 
   - Paul Watson

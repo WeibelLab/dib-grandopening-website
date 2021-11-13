@@ -1,5 +1,5 @@
 ---
-title: 'Remote collaboration in eXtended reality'
+title: 'Remote Collaboration in eXtended reality'
 summary: 'Designing XR-mediated remote collaboration systems that exploit the strengths of spatial computing'
 authors: 
   - Janet Johnson

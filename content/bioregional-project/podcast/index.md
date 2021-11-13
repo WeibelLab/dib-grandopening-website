@@ -1,5 +1,5 @@
 ---
-title: 'Podcast poster'
+title: 'Podcast Poster'
 summary: ''
 authors: 
   - Lawrence Herzog

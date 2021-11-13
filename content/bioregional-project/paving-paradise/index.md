@@ -1,5 +1,5 @@
 ---
-title: 'Paving paradise?'
+title: 'Paving Paradise?'
 summary: ''
 authors: 
   - Amy Lerner
