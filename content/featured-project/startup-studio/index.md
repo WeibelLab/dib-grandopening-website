@@ -36,4 +36,6 @@ links:
 ---
 Meet with the teams of Startup Studio (COGS112) to learn about their big ideas by engaging with their prototypes, an example of what they are considering to build. 
 
+Attendees can learn how to use common materials to build a lo-fi prototype for an idea they have: legos, playdoh, arts & crafts and more. Participants can keep their prototypes to further inspire their own innovation process.
+
 Prototyping is an iterative generation of artifacts and experiences intended to answer questions that get our teams closer to their final solution. Feedback will help innovators make critical decisions that can impact the success of their launch
