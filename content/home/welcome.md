@@ -15,7 +15,6 @@ design:
   # Add custom styles
   css_style:
   css_class:
-sjsks
 ---
 
 <br>
