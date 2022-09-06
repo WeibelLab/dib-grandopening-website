@@ -15,8 +15,9 @@ design:
   # Add custom styles
   css_style:
   css_class:
+sjsks
 ---
 
 <br>
 
-test: To commemorate the Grand Opening of the new Design and Innovation Building (DIB), The Design Lab is hosting a showcase of projects and activities on **Thursday, November 18 from 12:00pm to 3:00pm on the DIB 3rd floor**.
+To commemorate the Grand Opening of the new Design and Innovation Building (DIB), The Design Lab is hosting a showcase of projects and activities on **Thursday, November 18 from 12:00pm to 3:00pm on the DIB 3rd floor**.
